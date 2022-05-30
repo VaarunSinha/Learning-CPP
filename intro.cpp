@@ -1,3 +1,5 @@
+//An array is a list of values like: [1, 2, 3]
+
 #include <cstdlib>
 
  //For many things such as memory management, random numbers, searching, sorting etc.. general functions...
