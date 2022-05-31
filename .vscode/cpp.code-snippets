@@ -16,7 +16,12 @@
 			"",
 			"using namespace std;",
 			"",
-			"int main(int argc, char* argv[]){$0}"
+			"int main(int argc, char* argv[]){",
+			"",
+			"	$0",
+			"",
+			"	return 0;",
+			"}"
 		],
 		"description": "Log output to console"
 	}
